@@ -1,0 +1,145 @@
+2015-07-14 10:41:53,171 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:45:43,562 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:46:59,921 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:48:42,078 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:49:57,717 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:50:30,671 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:50:30,687 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:50:30,717 :: application :: DEBUG :: Initialized
+2015-07-14 10:52:46,937 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:52:49,453 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:52:49,467 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:52:49,483 :: application :: DEBUG :: Initialized
+2015-07-14 10:53:54,342 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:53:57,750 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:53:57,750 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:53:57,765 :: application :: DEBUG :: Initialized
+2015-07-14 10:54:07,967 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:54:21,483 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:54:21,483 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:54:21,515 :: application :: DEBUG :: Initialized
+2015-07-14 10:54:25,187 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:54:26,312 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:54:26,328 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:54:26,328 :: application :: DEBUG :: Initialized
+2015-07-14 10:54:28,717 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:56:09,905 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:56:09,921 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:56:09,937 :: application :: DEBUG :: Initialized
+2015-07-14 10:56:15,233 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:56:17,530 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:56:17,530 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:56:17,546 :: application :: DEBUG :: Initialized
+2015-07-14 10:56:19,342 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:56:42,765 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:56:42,780 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:56:42,796 :: application :: DEBUG :: Initialized
+2015-07-14 10:56:45,421 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:57:12,405 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:57:12,421 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:57:12,437 :: application :: DEBUG :: Initialized
+2015-07-14 10:57:16,453 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:57:44,358 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:57:44,375 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:57:44,405 :: application :: DEBUG :: Initialized
+2015-07-14 10:57:47,375 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:58:07,375 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:07,390 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:07,405 :: application :: DEBUG :: Initialized
+2015-07-14 10:58:09,905 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:58:11,233 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:11,250 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:11,265 :: application :: DEBUG :: Initialized
+2015-07-14 10:58:13,405 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:58:14,280 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:14,280 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:14,296 :: application :: DEBUG :: Initialized
+2015-07-14 10:58:17,217 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:58:18,328 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:18,342 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:18,358 :: application :: DEBUG :: Initialized
+2015-07-14 10:58:20,030 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 10:58:52,375 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:52,390 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 10:58:52,421 :: application :: DEBUG :: Initialized
+2015-07-14 10:59:04,875 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:00:35,078 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:00:35,092 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:00:35,108 :: application :: DEBUG :: Initialized
+2015-07-14 11:00:37,875 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:04:41,687 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:04:41,703 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:04:41,717 :: application :: DEBUG :: Initialized
+2015-07-14 11:04:44,358 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:04:45,375 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:04:45,390 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:04:45,421 :: application :: DEBUG :: Initialized
+2015-07-14 11:04:48,030 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:05:11,625 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:11,640 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:11,655 :: application :: DEBUG :: Initialized
+2015-07-14 11:05:14,750 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:05:15,967 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:15,967 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:15,983 :: application :: DEBUG :: Initialized
+2015-07-14 11:05:17,640 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:05:33,671 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:33,687 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:33,703 :: application :: DEBUG :: Initialized
+2015-07-14 11:05:35,842 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:05:36,655 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:36,671 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:36,687 :: application :: DEBUG :: Initialized
+2015-07-14 11:05:39,203 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:05:40,296 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:40,296 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:05:40,328 :: application :: DEBUG :: Initialized
+2015-07-14 11:05:42,890 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:06:38,312 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:06:38,312 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:06:38,328 :: application :: DEBUG :: Initialized
+2015-07-14 11:06:42,546 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:07:36,203 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:07:36,217 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:07:36,250 :: application :: DEBUG :: Initialized
+2015-07-14 11:07:39,140 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:12:36,015 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:36,030 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:36,046 :: application :: DEBUG :: Initialized
+2015-07-14 11:12:40,125 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:12:41,467 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:41,467 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:41,500 :: application :: DEBUG :: Initialized
+2015-07-14 11:12:44,140 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:12:49,015 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:49,015 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:49,046 :: application :: DEBUG :: Initialized
+2015-07-14 11:12:51,750 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:12:53,750 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:53,765 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:12:53,780 :: application :: DEBUG :: Initialized
+2015-07-14 11:13:10,733 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:13:20,140 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:13:20,140 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:13:20,171 :: application :: DEBUG :: Initialized
+2015-07-14 11:13:23,000 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:14:32,155 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:14:32,155 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:14:32,187 :: application :: DEBUG :: Initialized
+2015-07-14 11:14:35,421 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:14:37,062 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:14:37,078 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:14:37,092 :: application :: DEBUG :: Initialized
+2015-07-14 11:14:39,625 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:14:53,640 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:14:53,640 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:14:53,671 :: application :: DEBUG :: Initialized
+2015-07-14 11:15:00,078 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:21:58,030 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:21:58,046 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:21:58,078 :: application :: DEBUG :: Initialized
+2015-07-14 11:22:01,875 :: application :: DEBUG :: Finished main loop -- exiting.
+2015-07-14 11:22:03,483 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:22:03,500 :: resource :: DEBUG :: Successfully got 'notalon.ico'
+2015-07-14 11:22:03,515 :: application :: DEBUG :: Initialized
+2015-07-14 11:22:04,562 :: application :: DEBUG :: Finished main loop -- exiting.

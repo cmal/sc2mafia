@@ -1,0 +1,1 @@
+应该用过 IPython 吧？想象一下，抛出异常时自动把你带到 IPython Shell 是不是很开心？而且和普通的IPython不同，这个时候可以调用 p (print), up(up stack), down(down stack) 之类的命令。还能创建临时变量，执行任意函数。
